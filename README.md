@@ -168,7 +168,6 @@ $ docker run -it \
     -e INVOICER_POSTGRES_SSLMODE="disable" \
     securingdevops/invoicer-chapter2
 ```
-
 Use
 ---
 Create an invoice
